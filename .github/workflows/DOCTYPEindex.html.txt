@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Learning Hub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7f6;
+            color: #333;
+        }
+        header {
+            background-color: #0056b3;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        nav {
+            background-color: #f1f1f1;
+            padding: 10px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+        }
+        nav a {
+            text-decoration: none;
+            color: #0056b3;
+            margin: 0 15px;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: #003d7a;
+        }
+        .container {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 20px auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #222;
+        }
+        h2 {
+            margin-top: 0;
+            border-bottom: 2px solid #0056b3;
+            padding-bottom: 10px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #0056b3;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AI Learning Hub</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="pricing.html">Pricing</a>
+        <a href="blogs.html">Blogs</a>
+        <a href="whitepapers.html">White Papers</a>
+    </nav>
+    <div class="container">
+        <!-- Home Page Content -->
+        <section id="home">
+            <h2>Welcome to AI Learning Hub</h2>
+            <p>At AI Learning Hub, we are dedicated to providing the best resources and education on artificial intelligence. Whether you are a beginner or an advanced learner, we offer a range of materials to help you understand and master AI technologies.</p>
+            <p>Explore our tutorials, articles, and courses to begin your journey into the world of AI. Stay tuned for the latest updates and advancements in the field!</p>
+        </section>
+        <!-- About Us Page Content -->
+        <section id="about">
+            <h2>About Us</h2>
+            <p>AI Learning Hub was created with the mission to make artificial intelligence accessible and understandable for everyone. Our team consists of AI experts, educators, and enthusiasts who are passionate about sharing knowledge and fostering learning in this exciting field.</p>
+            <p>We believe that AI has the potential to transform industries and improve lives, and we aim to provide high-quality educational resources to support learners of all levels. Join us as we explore the possibilities and applications of AI together!</p>
+        </section>
+        <!-- Pricing Page Content -->
+        <section id="pricing">
+            <h2>Pricing</h2>
+            <p>We offer a range of pricing plans to suit different needs and budgets. Whether you're an individual learner or part of a corporate team, we have options that will fit your requirements. Contact us for detailed pricing information and to find the best plan for you.</p>
+            <p>Our pricing plans include access to all educational materials, exclusive content, and support to help you make the most of your learning experience.</p>
+        </section>
+        <!-- Blogs Page Content -->
+        <section id="blogs">
+            <h2>Blogs</h2>
+            <p>Welcome to our blog section, where we share the latest insights, trends, and updates on artificial intelligence. Our blogs cover a variety of topics, from AI research and innovations to practical tips and tutorials.</p>
+            <p>Stay informed and inspired by exploring our blog posts. We regularly update this section with new content, so check back often!</p>
+        </section>
+        <!-- White Papers Page Content -->
+        <section id="whitepapers">
+            <h2>White Papers</h2>
+            <p>Our white papers provide in-depth analysis and research on various aspects of artificial intelligence. These documents are designed for those who want to dive deeper into specific topics and gain a comprehensive understanding of AI technologies and their applications.</p>
+            <p>Access our collection of white papers to explore detailed studies, case studies, and expert opinions. These resources are available for download and offer valuable insights into the AI industry.</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 AI Learning Hub</p>
+    </footer>
+</body>
+</html>
